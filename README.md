@@ -1,4 +1,4 @@
-# cuadratic-surfaces
+# Cuadratic Surfaces
 Program developed in python that allows to graph parametric quadratic surfaces (hyperbolic paraboloid, ellipsoid, elliptic paraboloid, hyporboloid of one and two leaves, cone)
 
 To use you must have intalled matlib and wxPython 
